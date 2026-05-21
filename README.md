@@ -1,2 +1,8 @@
-# SC_302_Documentaci-n_MN_Jehoshua
+# SC\_302\_Documentaci-n\_MN\_Jehoshua
+
 Esta es mi primera práctica con GitHub.
+
+
+
+Estoy trabajando en una rama nueva
+
